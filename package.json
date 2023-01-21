@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-ecmascript-historia-y-versiones-de-javascript",
+  "version": "1.0.0",
+  "description": "Ejemplos y ejercicios practicos con JavaScript",
+  "main": "00-let-const.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldmngz96/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldmngz96/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/danieldmngz96/Curso-de-ECMAScript-Historia-y-Versiones-de-JavaScript#readme"
+}
